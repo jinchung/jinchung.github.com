@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hacker school | and then there was Jin]]></title>
   <link href="http://jinchung.github.com/blog/categories/hacker-school/atom.xml" rel="self"/>
   <link href="http://jinchung.github.com/"/>
-  <updated>2013-02-26T18:14:38-05:00</updated>
+  <updated>2013-02-26T18:18:36-05:00</updated>
   <id>http://jinchung.github.com/</id>
   <author>
     <name><![CDATA[Jin]]></name>
@@ -14,11 +14,21 @@
 
   
   <entry>
-    <title type="html"><![CDATA[python network programming with asyncore]]></title>
+    <title type="html"><![CDATA[Python Network Programming with Asyncore]]></title>
     <link href="http://jinchung.github.com/blog/2013/02/26/my-date-with-python/"/>
     <updated>2013-02-26T17:54:00-05:00</updated>
     <id>http://jinchung.github.com/blog/2013/02/26/my-date-with-python</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is my experiment of setting up client-server relationships via:
+1. Multi-threading
+2. Event-driven: select statements
+3. Event-driven: asyncore</p>
+
+<ul>
+<li>Example of using asyncore, what it is and how it can help</li>
+<li>Discussion of benefits between thread-based vs event-based approach, when you would use one over the other, etc</li>
+<li>Resources</li>
+</ul>
+
 ]]></content>
   </entry>
   
